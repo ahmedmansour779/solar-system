@@ -27,4 +27,4 @@ A 3D Solar System simulation built with Three.js and Vite.
 Clone the repository:
 
 ```bash
-git clone [SOLAR-SYSTEM](https://github.com/ahmedmansour779/solar-system.git)
+git clone (https://github.com/ahmedmansour779/solar-system.git)
